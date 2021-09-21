@@ -1,0 +1,14 @@
+D:\factorial program\factorial program\factorial program\bin\Debug\netcoreapp3.1\factorial program.exe
+D:\factorial program\factorial program\factorial program\bin\Debug\netcoreapp3.1\factorial program.deps.json
+D:\factorial program\factorial program\factorial program\bin\Debug\netcoreapp3.1\factorial program.runtimeconfig.json
+D:\factorial program\factorial program\factorial program\bin\Debug\netcoreapp3.1\factorial program.runtimeconfig.dev.json
+D:\factorial program\factorial program\factorial program\bin\Debug\netcoreapp3.1\factorial program.dll
+D:\factorial program\factorial program\factorial program\bin\Debug\netcoreapp3.1\factorial program.pdb
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.csproj.AssemblyReference.cache
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.GeneratedMSBuildEditorConfig.editorconfig
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.AssemblyInfoInputs.cache
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.AssemblyInfo.cs
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.csproj.CoreCompileInputs.cache
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.dll
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.pdb
+D:\factorial program\factorial program\factorial program\obj\Debug\netcoreapp3.1\factorial program.genruntimeconfig.cache
